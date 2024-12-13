@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "711363483860",
+    "firebase_url": "https://customerappjg3-default-rtdb.firebaseio.com",
+    "project_id": "customerappjg3",
+    "storage_bucket": "customerappjg3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711363483860:android:8fca19eee23a4fbf9a0341",
+        "android_client_info": {
+          "package_name": "com.example.customerappjg3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfyBPaGci7hDjpS9jcHB2gO8FBawoLsB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
